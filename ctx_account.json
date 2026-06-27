@@ -1,0 +1,20 @@
+{
+  "email": "bot1782573826172@114514heihei.eu.org",
+  "password": "CtfBot2026!Secure",
+  "agent_id": "a49e721f-5913-49d4-a495-34bd90315b99",
+  "session_cookie": "UV6qcvJzhgvG9T923wDmB7D8DMHw3Cgb.U9MbTbHaNtul7Qfu%2Fx%2BVWpAtPQjSCuPO65fhHmOVWFI%3D",
+  "api_key": "ctx_eb9e7dc8_bcd7a91d98a51404edc9bbba17c95606",
+  "api_key_name": "ctf-reg-1782573844",
+  "api_key_info": {
+    "id": "44206c03-8bc5-4536-971a-a1b726a83091",
+    "agentId": "a49e721f-5913-49d4-a495-34bd90315b99",
+    "prefix": "eb9e7dc8",
+    "name": "ctf-reg-1782573844",
+    "lastUsedAt": null,
+    "createdAt": "2026-06-27T15:24:05.107Z"
+  },
+  "inference_endpoint": "https://workspace.context.ai/api/inference/vercel/v1/ai/language-model",
+  "inference_model": "context-gateway/zai/glm-5.2",
+  "inference_status": 402,
+  "inference_response": "{\"error\":{\"message\":\"Quota limit exceeded for \\\"api_key_id_95rSprc4GMiLeg1OMv99aEWtazRNnWW5BoeAHfpA14MeASSp\\\". Current spend: $2001.80, limit: $2000.00. Please contact your administrator to increase the quota.\",\"type\":\"quota_for_entity_exceeded\"}}"
+}
